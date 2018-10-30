@@ -10,3 +10,4 @@ Support for hacktoberfest first timers 🔥
 - Jason Brown - Profile: [/jcbrown602](https://github.com/jcbrown602)
 - Echo - Profile: [/echoskope](https://github.com/echoskope)
 - J Doroy - Profile: [/isotopeee](https://github.com/isotopeee)
+- Erika - Profile : [/mimzy12](https://github/mimzy12)
